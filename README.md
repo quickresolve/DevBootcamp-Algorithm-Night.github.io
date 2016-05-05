@@ -21,7 +21,7 @@ A weekly workshop created to help DBC alumi/students practice their technical in
 Date | Topic | Speaker
  --- | --- | ---
 May 04 | Intro to Whiteboarding | -
-May 11 | Stacks & Queues | -
+May 11 | Stacks & Queues | Laura
 May 18 | Recursion | Riley
 May 25 | Big O | Dan
 June 1 | Node & Linked Lists | -
